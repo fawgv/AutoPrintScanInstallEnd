@@ -1,0 +1,110 @@
+Listing 109 setup classes.
+XboxComposite       :   Xbox
+RemotePosDevice     :    
+DigitalMediaDevices :  
+PrintQueue          :  
+WCEUSBS             :  
+SecurityAccelerator :  
+HidMsr              :    POS HID
+SystemRecovery      :    FS
+USB                 :  USB
+?                   : ?
+ContentScreener     :      
+AndroidUsbDeviceClass: Android Phone
+Media Center Extender: Media Center Extenders
+PnpPrinters         : IEEE 1394  SCSI-
+Dot4                :  IEEE 1284.4
+Replication         :    
+Dot4Print           : ,   IEEE 1284.4
+CDROM               : DVD-   -
+Computer            : 
+DiskDrive           :  
+Display             : 
+FDC                 :   
+HDC                 :  IDE ATA/ATAPI
+Keyboard            : 
+MEDIA               : ,   
+Modem               : 
+Monitor             : 
+Mouse               :     
+MTD                 : MTD-
+MultiFunction       :  
+Net                 :  
+NetClient           :  
+NetService          :  
+NetTrans            :  
+PCMCIA              :  PCMCIA
+Ports               :  (COM  LPT)
+Printer             : 
+SCSIAdapter         :   
+System              :  
+Unknown             :  
+FloppyDisk          :   
+HidLineDisplay      : POS Line Display
+Processor           : 
+MultiPortSerial     :   
+Memory              :  
+SmartCardReader     :   -
+Sensor              : 
+VolumeSnapshot      :     
+SmrDisk             :    
+ScmDisk             :   
+SmrVolume           :    
+ScmVolume           :    
+Biometric           :  
+Proximity           :   
+AudioProcessingObject:    (APO)
+OposLegacyDevice    :   OPOS
+SoftwareComponent   :   
+FSFilterSystem      :    
+SoftwareDevice      :  
+PerceptionSimulation: Perception Simulation Controllers
+PhysicalQuotaManagement:      
+1394                : - IEEE 1394
+Infrared            :  -
+Image               :   
+TapeDrive           : 
+Volume              :  
+ContinuousBackup    :      
+Battery             : 
+HIDClass            :  HID (Human Interface Devices)
+HidCashDrawer       : POS Cash Drawer
+61883               :  61883
+QuotaManagement     :     
+NetDriver           :   
+TS_Generic          :     
+USBDevice           :  USB
+CopyProtection      :      
+LegacyDriver        :   
+SmartCard           : -
+EhStorSilo          :      IEEE 1667
+SDHost              : -  
+Encryption          :    
+AntiVirus           :     
+ActivityMonitor     :     
+USBFunctionController:   USB
+AVC                 :     
+AudioEndpoint       :   
+BarcodeScanner      : POS Barcode Scanner
+WSDPrintDevice      :   WSD
+POSPrinter          : POS Receipt Printer
+Camera              : 
+CFSMetadataServer   :    CFS  
+MediumChanger       :   
+SecurityEnhancer    :      
+Miracast            :  Miracast
+SBP2                :  SBP2 IEEE 1394
+HSM                 :  HSM  
+Holographic         :   
+XnaComposite        :   Xbox 360
+SecurityDevices     :  
+SmartCardFilter     :  -
+Bluetooth           : Bluetooth
+Extension           : 
+Infrastructure      :    
+WPD                 :  
+Firmware            :  
+Compression         :    
+Virtualization      :    
+OpenFileBackup      :       
+Undelete            :     
